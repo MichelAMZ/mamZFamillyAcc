@@ -1,0 +1,11 @@
+@CHARSET "UTF-8";
+
+body {
+    background-image: url("../images/siteEnConstruction2.png");
+    background-color: red;
+}
+
+.bg-1 { 
+       background-color: #1abc9c /* Green */
+        color: #ffffff
+    }

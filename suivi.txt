@@ -1,0 +1,17 @@
+
+
+--> Internalisation du site:
+	- Local (https://www.jmdoudoux.fr/java/dej/chap-i18n.htm)
+	- Message tool (http://marketplace.eclipse.org/content/properties-editor-java-i18n-tool)
+	
+--> Inscription => page "Vous voyagez | Vous voulez allez accueillir
+--> Connexion
+-->ORM hibernate
+--> Couche DAO = Création entities : familleAccueil -> identité, lieu de résidence.
+					Continent/ pays
+		 Interfaces / DaoImplementation
+--> Couche Service
+
+Couche Présentation =
+					
+--> Mise en ligne 
